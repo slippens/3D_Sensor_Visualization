@@ -1,0 +1,18 @@
+.custom-vis-layout.cube .custom-vis-layout._visbuilder canvas {
+ width: 100%;
+ height: 100%;
+ }
+
+.custom-vis-layout.cube button, .custom-vis-layout.cube restart, .custom-vis-layout.cube pause {
+ margin-top: 20px;
+ line-height: 60px;
+ font-weight: bold;
+ padding: 0px 40px;
+ background: salmon;
+ border: none;
+ }
+
+.custom-vis-layout.cube button:hover, .custom-vis-layout.cube restart:hover, .custom-vis-layout.cube pause:hover {
+ background: lightsalmon;
+ }
+
